@@ -12,5 +12,7 @@ Third, MultipleTestingCorrections.R is used to control for the false discovery r
 
 Fourth, an ensemble feature selection pipeline uses random forests, elastic net regression, Spearman's rank correlation, and gradient boosting machines to rank the relative influence of each probe's methylation on the postmortem tissues Braak stage in EFS.R
 
+Other scripts in this Repo include a GAM cross validation error script and other general data visualisations tools using ggplot2 
+
 
 

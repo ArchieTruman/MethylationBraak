@@ -1,6 +1,6 @@
 # MethylationBraak
 
-This repo is designed to analyse methylation data alongside phenotypical data. It was first used to analyse the ROS/MAP cohort.
+This repo is designed to analyse methylation data alongside phenotypical data. 
 
 It was first used in my undergraduate project "non-linear methods reveal 267 novel CpG sites associated with Alzheimer's disease"
 
